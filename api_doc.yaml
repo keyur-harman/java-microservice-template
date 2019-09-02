@@ -1,4 +1,4 @@
-swagger: "2.0"
+swagger: "2.0.0"
 info:
   description: "This is an API documentation for organization managment service. \n  [Find out more about organization management service](https://parallel6.atlassian.net/wiki/spaces/PROV/pages/792068410/Organization+management+Service) \n [Find out more about Provenance](https://parallel6.atlassian.net/wiki/spaces/PROV/pages/687046714/Program+Provenance)"
   version: "1.0.0"
